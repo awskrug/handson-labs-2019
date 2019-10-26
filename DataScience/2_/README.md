@@ -1,3 +1,6 @@
+AWS 위에서 EKS 와 JupyterHub 로 유연한 실험 환경 구축하기 (feat.러닝머신 엔지니어) - 박훈
+
+
 실습 코드 (Github) - 1ambda/terraform-aws-eks-jupyterhub/
 
 실습 설명 (Slide) - bit.ly/2IMGeVZ
